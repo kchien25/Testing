@@ -2,7 +2,7 @@ html{
     height: 100%;
 }
 body{
-    background: url("images/south korea.jpg");
+    background: url("images/southkorea.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
@@ -54,4 +54,8 @@ input{
     width: 10%;
     float: right;
     margin: 5px 10px;
+}
+
+#foodImage{
+    height: 500px;
 }
