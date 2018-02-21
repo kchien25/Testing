@@ -21,6 +21,20 @@
                 <li>Third</li>
             </ul>
         </section>
+        <br />
+        <br />
+        <h2>Testing Form Validations</h2>
+        <h4>Please follow the form instructions.</h4>
+        <section>
+            <form onsubmit="return verify()">
+                <input id="number" type="text"><br />Please input a number between 1 and 100.</input>
+                <p id="numValidation" hidden>Please keep the number between 1-100.</p>
+                <p id="nanValidation" hidden>Please input only numbers.</p>
+                <br />
+                <br />
+                <input type="submit"></input>
+            </form>
+        </section>
         <script type="text/javascript" src="evolution.js"></script>
     </body>
 </html>

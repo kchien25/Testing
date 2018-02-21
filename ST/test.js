@@ -1,0 +1,1 @@
+typeof "920" == number;

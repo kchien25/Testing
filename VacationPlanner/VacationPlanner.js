@@ -75,18 +75,18 @@ function calculateBudget(){
 }
 
 // background slideshow
-//var images = ["images/southkorea.jpg", "images/southkorea2.jpg", "images/southkorea3.jpg", "images/southkorea4.jpg"];
-//var currentImage = 0;
+var images = ["images/southkorea.jpg", "images/southkorea2.jpg", "images/southkorea3.jpg", "images/southkorea4.jpg"];
+var currentImage = 0;
 
-//setInterval(changeImage, 3000);
+setInterval(changeImage, 3000);
 
-//function changeImage(){
-//    currentImage++;
-//    if (currentImage > images.length - 1) {
-//        currentImage = 0;
-//    }
-//    document.body.style.backgroundImage = "url(" + images[currentImage] + ")";
-//}
+function changeImage(){
+    currentImage++;
+    if (currentImage > images.length - 1) {
+        currentImage = 0;
+    }
+    document.body.style.backgroundImage = "url(" + images[currentImage] + ")";
+}
 
 // adding a food slideshow to the bottom
 var foodImages = ["images/koreanfood.jpg", "images/koreanfood2.jpg", "images/koreanfood3.jpg", "images/koreanfood4.jpg"];
@@ -126,9 +126,13 @@ yesFood.onclick = revealFood;
 noFood.onclick = hideFood;
 
 function revealFood(){
-
+    previous.removeAttribute("hidden");
+    next.removeAttribute("hidden");
+    foodImage.removeAttribute("hidden");
 }
 
 function hideFood(){
-
+    previous.setAttribute("hidden", true);
+    next.setAttribute("hidden", true);
+    foodImage.setAttribute("hidden", true);
 }
