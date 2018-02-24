@@ -1,29 +1,28 @@
 
 <<<2/21/18>>>
 
-why did i choose to change my career path? well, that's easy. actually, looking back, 
-it was easy but when i was making the decision, it was pretty damn hard. i really 
-thought about it for days, weeks, months, and it just really clicked for me when i 
-realized that i never went out of my way to self study things related to biology or 
-medicine or anything like that but taking online courses on computer science was just 
-genuinely fun and interesting to me. even watching a couple videos on SQL and unix 
-command lines were pretty fun for me although i'm learning those things quite casually 
-when compared to the other courses that i'm taking online. i really just think that 
-everything about this subject is endlessly interesting while biology... was actually 
-my least favorite science in college. my favorite science was organic chemistry 
-followed by general chemistry. i would have gone into chemistry rather than biology 
-back then but at that time, i hated math. i actually like math a lot more now after 
-taking calc 1 and calc 2.
+why did i choose to change my career path? well, that's easy. actually, looking back, it 
+was easy but when i was making the decision, it was pretty damn hard. i really thought 
+about it for days, weeks, months, and it just really clicked for me when i realized that 
+i never went out of my way to self study things related to biology or medicine or 
+anything like that but taking online courses on computer science was just genuinely fun 
+and interesting to me. even watching a couple videos on SQL and unix command lines were 
+pretty fun for me although i'm learning those things quite casually when compared to the 
+other courses that i'm taking online. i really just think that everything about this 
+subject is endlessly interesting while biology... was actually my least favorite science 
+in college. my favorite science was organic chemistry followed by general chemistry. i 
+would have gone into chemistry rather than biology back then but at that time, i hated 
+math. i actually like math a lot more now after taking calc 1 and calc 2.
 
-also, i just wanted to say that i installed eclipse, apache maven, made code runner 
-work on vscode yesterday and the day before and that was so frustrating. maven was so 
+also, i just wanted to say that i installed eclipse, apache maven, made code runner work 
+on vscode yesterday and the day before and that was so frustrating. maven was so 
 frustrating. thank goodness for homebrew.
 
 i discovered codewars today! it's pretty fun! they're like little challenges. my python 
-skillz have deteriorated though i'm learning a lot from the solutions that are on 
-there! i didn't even know replace and filter was a thing. also, i changed my profile 
-picture on github because i was told that professional people would actually be looking 
-at them so using a picture of the guy from america's next top model isn't good. 
+skillz have deteriorated though i'm learning a lot from the solutions that are on there! 
+i didn't even know replace and filter was a thing. also, i changed my profile picture on 
+github because i was told that professional people would actually be looking at them so 
+using a picture of the guy from america's next top model isn't good. 
 
 p.s. i should learn what agile is
 p.p.s. it's a software development method that lets you update in small bunches rather 
@@ -32,14 +31,31 @@ than a huge shabang all at once
 <<<2/22/18>>>
 
 today was a pretty great day! dr. leader connected me with the development team at 
-jefferson and they're going to let me shadow some of the team members there. they work 
-on applications, patient portals, websites, and much more. i feel like this would be 
-really helpful with determining what direction i want to go with programming and if 
-software development really is where my passion lies. i'm excited!!
+jefferson and they're going to let me shadow some of the team members there. they work on 
+applications, patient portals, websites, and much more. i feel like this would be really 
+helpful with determining what direction i want to go with programming and if software 
+development really is where my passion lies. i'm excited!!
 
-also, i've started watching the webcasts from berkeley and stanford and i guess for 
-now i'll focus on that and maybe put the websites as a low priority because web 
-development isn't really what i WANT to do anyway though javascript is a very useful 
-language nonetheless. i just find python cleaner, easier to use, and easier to keep my 
-thoughts in order. i suppose using more comments on javascript would help level the 
-playing field, though.
+also, i've started watching the webcasts from berkeley and stanford and i guess for now 
+i'll focus on that and maybe put the websites as a low priority because web development 
+isn't really what i WANT to do anyway though javascript is a very useful language 
+nonetheless. i just find python cleaner, easier to use, and easier to keep my thoughts in 
+order. i suppose using more comments on javascript would help level the playing field, 
+though.
+
+<<<2/23/18>>>
+
+i really need to stop getting myself involved in additional things that i don't have 
+time for. i'm not superwoman or anyting so clearly i won't be able to handle things at 
+the speed of a bullet. being a full time master's student while trying to study computer 
+science is so hard but still pretty rewarding. i recently realized that i barely spend 
+any time on time-wasting stuff because sometimes learning about programming feels as fun 
+as the time-wasting stuff i used to do. nonetheless, trying to take 4 computer science 
+classes at the same time while also taking 6 in-class public health classes concurrently 
+is waaaayyyyy more than i can reasonably handle. especially since the node.js course 
+recommends that i already have a set of webpages built so i can just focus on the 
+back-end stuff. i tried looking for some webpages that were already built up and, 
+granted, i didn't spend a lot of time actually looking but it seemed kind of boring so i 
+decided to move ahead one course for the microsoft recommended entry level software 
+developer series and start on java, instead. naturally, i'll still make my way back 
+because node.js is a very practical and useful thing to know about.
