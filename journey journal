@@ -123,3 +123,24 @@ programming thing (which was definitely a jump in self-learning because the prev
 pretty much held your hand through everything) and being able to refactor my code and shorten 
 it by 20 lines was pretty great! and being able to figure out the 2d array was awesome. i'm 
 starting to feel a little challenge now and it's definitely both frustrating and rewarding!!
+
+<<<3/12/18>>>
+
+SO. i recently started learning object oriented programming in java (which is like a step 
+above the other stuff i've been learning in terms of brain power needed) and i was doing the 
+project right after learning about public and private and static and non-static and i was 
+trying to get this stupid fraction class thing to work because i needed to return a fraction 
+for a method but i didn't know how to do that?!??! so then i google around for a way to do it 
+and, naturally, i end up on stack overflow to see how people were doing it and apparently 
+there's a "RETURN THIS"?!?!?!?!? LIKE YOU CAN JUST RETURN THIS? JUST THIS?!?? WHAT?!??! it 
+blew my mind. it totally blew my mind. i was dying trying to figure out how to return 
+something in my fraction form like what, even, is my fraction form? i have a numerator and 
+denominator field but how do i return a FRACTION?!?! WHAT TYPE EVEN IS THE FRACTION!? I DIDNT 
+DECLARE A TYPE IN MY FRACTION CLASS OK!?!?! unless class is the type. is class a type? oh 
+dang, class is a type. TIL. well, actually, i think i learned that before but i just wanted to 
+say that the 'return this' blew my mind. microsoft should have gone over that a little better 
+in their online course. but still thank you for this opportunity to learn, microsoft. but 
+yeah, object oriented programming was so complicated as i was reading about it for the first 
+time but now that i'm actually putting it into practice, things are starting to make more and 
+more sense. computer science is still great. public health is still boring. ok, maybe not 
+totally boring but just boring in comparison to programming. for me. ymmv and all.
